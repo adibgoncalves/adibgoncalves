@@ -27,4 +27,4 @@ His passion for creating and developing new looks in a simple and minimalist but
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
 <br/> :computer: &nbsp; My stack: ReactJS & Typescript
 <br/> :coffee: &nbsp; I currently work as a computer technician providing support for users and computer maintenance.
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
+<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
