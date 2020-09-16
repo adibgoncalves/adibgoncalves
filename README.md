@@ -2,29 +2,16 @@
 
 # Adib Gonçalves
 
-### Hi there 👋
+### Hello, World 👋
 
-<!--
-**adibgoncalves/adibgoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, design, desafios e transformações.
 
-Here are some ideas to get you started:
+😄 Olá, sou o Adib. Sou formado em design gráfico e há alguns anos atuo na área de TI, inicialmente com suporte técnico e infraestrutura. Tenho formação técnica em redes de computadores e atualmente estou fazendo uma nova graduação em tecnologia em sistemas para internet. 
+Facilmente passo horas lendo, sou mais criativo ouvindo meus kpops, gosto de me distrair um pouco com jogos online e em um momento de folga ir ao cinema ou assistir filmes em casa.
+Eu me apaixonei por desenvolvimento front-end a algum tempo e estou estudando, somando meu amor pelo design e tecnologia através do desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-His passion for creating and developing new looks in a simple and minimalist but impactful way.
-
-😄 Hi, I'm Adib. I am graduated in graphic design and for some years I work in the IT area initially in support and infrastructure. I have a technical course in computer networks and I am currently doing a new degree in technology in internet systems. I really enjoy reading, listen to kpop, online games and going to the movies or watching movies at home. I fell in love with front-end development for some time and I am studying, adding my love for design and now for web development.
-
-<br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
-<br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
-<br/> :computer: &nbsp; My stack: ReactJS & Typescript
-<br/> :coffee: &nbsp; I currently work as a computer technician providing support for users and computer maintenance.
-<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
+<br/> :purple_heart: &nbsp; Procurando colaborar com projetos front-end usandp HTML, CSS e Javascript.
+<br/> :blush: &nbsp; Posso ajudá-lo com CSS Grid Layout e Flexbox.
+<!-- <br/> :computer: &nbsp; My stack: Estudando ReactJS -->
+<br/> :coffee: &nbsp; Atualmente trabalho como técnico de computação prestando suporte de sistema a usuários e realizando manutenção de computadores.
+<br/> :email: &nbsp; Vamos trocar uma ideia: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
