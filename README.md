@@ -13,5 +13,5 @@ Eu me apaixonei por desenvolvimento front-end a algum tempo e estou estudando, s
 <br/> :purple_heart: &nbsp; Procurando colaborar com projetos front-end usandp HTML, CSS e Javascript.
 <br/> :blush: &nbsp; Posso ajudá-lo com CSS Grid Layout e Flexbox.
 <!-- <br/> :computer: &nbsp; My stack: Estudando ReactJS -->
-<br/> :coffee: &nbsp; Atualmente trabalho como técnico de computação prestando suporte de sistema a usuários e realizando manutenção de computadores.
+<br/> :coffee: &nbsp; Atualmente estudo Tecnologia em Sistemas para a Internet no IFRN.
 <br/> :email: &nbsp; Vamos trocar uma ideia: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
