@@ -1,5 +1,3 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/36972558?s=460&u=8be9f56c6d8ed54e194d5700753afc1470263ab3&v=4">
-
 # Adib Gonçalves
 
 ### Hello, World 👋
