@@ -11,6 +11,6 @@ Atualmente atuo na área de QA e testes automatizados(API e GUI). Venho estudand
 
 <br/> :purple_heart: &nbsp; Procurando colaborar com projetos front-end, desenvolvendo ou sendo QA.
 <br/> :blush: &nbsp; Posso ajudá-lo com HTML, CSS e JS.
-<br/> :computer: &nbsp; My stack: Estudando ReactJS, Node.js e Cypress.
+<br/> :computer: &nbsp; My stack: Estudando ReactJS, Node.js, Spring Boot e Cypress.
 <br/> :coffee: &nbsp; Atualmente estudo Tecnologia em Sistemas para Internet no IFRN.
 <br/> :email: &nbsp; Vamos trocar uma ideia: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
