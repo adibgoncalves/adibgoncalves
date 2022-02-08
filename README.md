@@ -1,16 +1,31 @@
-# Adib Gonçalves
+## Olá! Eu sou o Adib Gonçalves
 
-### Hello, World 👋
+- Hoje trabalho com QA e testes automatizados com Cypress
+- Estudando ReactJS e Spring Boot
+- Pronomes: ele/dele
 
-Sou apaixonado por tecnologia, design, desafios e transformações.
+<div align="center">
+  <a href="https://github.com/adibgoncalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibgoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibgoncalves&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
-😄 Olá, sou o Adib. Sou formado em design gráfico e há alguns anos atuo na área de TI. Tenho formação técnica em redes de computadores e atualmente estou fazendo uma nova graduação em tecnologia em sistemas para a internet.
-Facilmente passo horas lendo, gosto de me distrair um pouco com jogos online e assistir filmes e séries.
-Eu me apaixonei por desenvolvimento front-end no final de 2019 e desde então estou estudando, somando meu amor pelo design e tecnologia através do desenvolvimento web.
-Atualmente atuo na área de QA e testes automatizados(API e GUI). Venho estudando os conceitos de QA e criando testes automatizados com Cypress, e o melhor de tudo é que estou estagiando na área.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adib-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adib-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Adib-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Adib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adib-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adib-Cypress" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp">
+</div>
 
-<br/> :purple_heart: &nbsp; Procurando colaborar com projetos front-end, desenvolvendo ou sendo QA.
-<br/> :blush: &nbsp; Posso ajudá-lo com HTML, CSS e JS.
-<br/> :computer: &nbsp; My stack: Estudando ReactJS, Node.js, Spring Boot e Cypress.
-<br/> :coffee: &nbsp; Atualmente estudo Tecnologia em Sistemas para Internet no IFRN.
-<br/> :email: &nbsp; Vamos trocar uma ideia: [![Linkedin Badge](https://img.shields.io/badge/-AdibGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/)](https://www.linkedin.com/in/adib-gon%C3%A7alves-594055174/) 
+##
+
+<div>
+  <a href="https://instagram.com/adibgoncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adib.fernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adib-gonçalves-594055174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/adibgoncalves/adibgoncalves/blob/output/github-contribution-grid-snake.svg)
+</div>
