@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Adib Gonçalves
 
 - Hoje trabalho com QA e testes automatizados com Cypress
-- Estudando ReactJS e Spring Boot
+- Estudando: TypeScript, ReactJS e Spring Boot
 - Pronomes: ele/dele
 
 <div align="center">
@@ -13,7 +13,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adib-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adib-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adib-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adib-Cypress" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp">
