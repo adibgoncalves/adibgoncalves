@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Adib Gonçalves
 
-- Hoje faço estáfio em QA e testes automatizados com Cypress
+- Hoje faço estágio em QA e testes automatizados com Cypress
 - Estudando: TypeScript, ReactJS e Spring Boot
 - Pronomes: ele/dele
 
