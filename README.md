@@ -15,7 +15,7 @@
   <img align="center" alt="Adib-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adib-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adib-Cypress" src="https://boards.greenhouse.io/cypressio">
+  <img align="center" alt="Adib-Cypress" height="30" width="30" src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg">
 </div>
 
 ##
