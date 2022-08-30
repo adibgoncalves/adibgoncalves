@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Adib Gonçalves
 
-- Hoje sou Analista de QA e testes automatizados Junior
+- Hoje sou Analista de QA e testes automatizados Pleno
 - Estudando: Cypress, Cucumber e JMeter
 - Pronomes: ele/dele
 
