@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Adib Gonçalves
 
 - Hoje sou Analista de QA e testes automatizados Junior
-- Estudando: TypeScript, ReactJS e Spring Boot
+- Estudando: Cypress, Cucumber e JMeter
 - Pronomes: ele/dele
 
 <div align="center">
